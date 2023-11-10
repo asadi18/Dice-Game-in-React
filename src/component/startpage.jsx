@@ -4,7 +4,7 @@ const StartPage = ({ toggle }) => {
   return (
     <Container>
       <div>
-        <img src="images/dice-1.png" alt="Dice" />
+        <img src="images/dice-1.png" alt="Dice">
       </div>
 
       <div className="content">
